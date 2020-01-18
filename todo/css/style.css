@@ -27,8 +27,8 @@ body{
     width : 30px;
     height: 30px;
     position: absolute;
-    right:20px;
-    bottom: 20px;
+    left:20px;
+    bottom: 30px;
 }
 .clear i{
     font-size: 30px;
